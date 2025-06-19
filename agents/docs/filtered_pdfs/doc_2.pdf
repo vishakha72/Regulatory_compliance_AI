@@ -1,0 +1,2389 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="We&#039;re sorry, this page cannot be found." />
+<link rel="canonical" href="https://www.ofgem.gov.uk/publications/riio-2-cyber-resilience-guidelines/sites/default/files/docs/2020/04/riio2_cyber_resilience_guidelines.pdf" />
+<meta property="og:site_name" content="Ofgem" />
+<meta property="og:url" content="https://www.ofgem.gov.uk/publications/riio-2-cyber-resilience-guidelines/sites/default/files/docs/2020/04/riio2_cyber_resilience_guidelines.pdf" />
+<meta property="og:title" content="Sorry, we can&#039;t seem to find that content for you" />
+<meta property="og:description" content="We&#039;re sorry, this page cannot be found." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@ofgem" />
+<meta name="twitter:title" content="Sorry, we can&#039;t seem to find that content for you" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/numiko/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.ofgem.gov.uk/sorry-we-cant-seem-find-content-you" />
+
+    <title>Sorry, we can&#039;t seem to find that content for you | Ofgem</title>
+
+        <link rel="preconnect" href="https://cc.cdn.civiccomputing.com">
+    <link rel="preconnect" href="https://app.everviz.com">
+    <link rel="preconnect" href="https://code.highcharts.com">
+    <link rel="preconnect" href="https://cdn.jwplayer.com">
+
+        <link rel="preload" href="https://use.typekit.net/vit8nia.css" as="style">
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-KLNJRS8');</script>
+    <!-- End Google Tag Manager -->
+
+    <link rel="stylesheet" media="all" href="/modules/contrib/responsive_table_filter/css/responsive-table-filter.css?svtyh1" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?svtyh1" />
+<link rel="stylesheet" media="all" href="/themes/custom/numiko/dist/css/main.css?svtyh1" />
+<link rel="stylesheet" media="all" href="https://use.typekit.net/vit8nia.css" />
+
+    
+
+    <script>
+    function shouldLoadPolyfills () {
+      return (
+        !('assign' in Object) ||
+        !('from' in Array) ||
+        !(NodeList.prototype.forEach) ||
+        !(String.prototype.endsWith)
+      )
+    }
+
+    if (shouldLoadPolyfills()) {
+      var scriptElement = document.createElement('script');
+      scriptElement.async = false;
+      scriptElement.src = '/themes/custom/numiko/dist/js/polyfills-bundle.js';
+      document.head.appendChild(scriptElement);
+    }
+    </script>
+
+    <noscript>
+      <style>
+        /**
+        * Reinstate scrolling for non-JS clients
+        */
+        .simplebar-content-wrapper {
+          overflow: auto;
+        }
+      </style>
+    </noscript>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/numiko/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/themes/custom/numiko/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/themes/custom/numiko/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/themes/custom/numiko/favicons/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#00a300">
+    <meta name="theme-color" content="#ffffff">
+
+  </head>
+
+  <body class="theme-orange path-publications page-node-type-page no-js" style="padding: 0px; margin: 0px;">
+
+  <!-- Google Tag Manager (noscript) -->
+
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLNJRS8" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+
+  <!-- End Google Tag Manager (noscript) -->
+
+        <div class="ml-4">
+      <a href="#main-content" class="sr-only focus:not-sr-only focusable skip-link">
+        Skip to main content
+      </a>
+    </div>
+
+    <div class="svg-symbols hidden">
+      <svg xmlns="http://www.w3.org/2000/svg"><symbol id="sprite-icon-ajax-icon" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid"><circle cx="50" cy="50" r="30" stroke="#e76d1c" stroke-width="30" fill="none"/><circle cx="50" cy="50" r="30" stroke="#fbb515" stroke-width="30" stroke-linecap="round" fill="none"><animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" dur="1.1764705882352942s" values="0 50 50;180 50 50;720 50 50" keyTimes="0;0.5;1"/><animate attributeName="stroke-dasharray" repeatCount="indefinite" dur="1.1764705882352942s" values="37.69911184307752 150.79644737231007;0 188.49555921538757;37.69911184307752 150.79644737231007" keyTimes="0;0.5;1"/></circle></symbol><symbol id="sprite-icon-alert-large" viewBox="0 0 60 60"><g fill-rule="evenodd"><circle cx="30" cy="30" r="30"/><path d="M32.8 36.15l1-22.5h-7.65l1.05 22.5h5.6zM30 47.5c2.2 0 4.05-1.85 4.05-4 0-2.2-1.85-4.05-4.05-4.05-2.2 0-4 1.85-4 4.05 0 2.15 1.8 4 4 4z" fill="#1D2B39" fill-rule="nonzero"/></g></symbol><symbol id="sprite-icon-arrow-thick" viewBox="0 0 20.4 29.1"><path d="M17 15.9l-4.2 3.9V0h-5v20l-4.4-4.1L0 19.5l10.2 9.6 10.2-9.6z"/></symbol><symbol id="sprite-icon-arrow" viewBox="0 0 11 22.4"><path d="M4.9 0h1.4v21.4H4.9z"/><path d="M5.5 22.4L0 16.9l1-1 4.5 4.5 4.5-4.5 1 1z"/></symbol><symbol id="sprite-icon-chevron-double" viewBox="0 0 10.5 13.2"><path d="M0 7.3L1.5 6l3.8 4.2L9 6l1.5 1.3-5.2 5.8L0 7.3zm0-6L1.5 0l3.8 4.2L9 0l1.5 1.3-5.3 5.9L0 1.3z"/></symbol><symbol id="sprite-icon-chevron-round" viewBox="0 0 20 20"><g fill-rule="evenodd" stroke-width="0"><circle cx="10" cy="10" r="10"/><path stroke-width="2" d="M14.5 7.5l-4.5 5-4.5-5"/></g></symbol><symbol id="sprite-icon-chevron" viewBox="0 0 11 6.5"><path d="M0 1l1-1 4.5 4.5L10 0l1 1-5.5 5.5z"/></symbol><symbol id="sprite-icon-cross-round" viewBox="0 0 20 20"><g fill-rule="evenodd" stroke-width="0"><circle cx="10" cy="10" r="10"/><path d="M6.889 6.889l6.222 6.222m0-6.222l-6.222 6.222" stroke-linecap="square" stroke-width="2"/></g></symbol><symbol id="sprite-icon-cross" viewBox="0 0 17 17"><path d="M1.833 1.833l13.334 13.334m0-13.334L1.833 15.167" stroke-width="2" fill-rule="evenodd" stroke-linecap="square"/></symbol><symbol id="sprite-icon-dropdown" viewBox="0 0 20 20"><g fill="none" fill-rule="evenodd"><circle fill="#1D2B39" cx="10" cy="10" r="10"/><path d="M14.5 7.5l-4.5 5-4.5-5" stroke="#FFF" stroke-width="2"/></g></symbol><symbol id="sprite-icon-facebook" viewBox="0 0 20 20"><path d="M11.84 4.06a1.73 1.73 0 011.34-.41H15v-3A19.44 19.44 0 0012.36.5a4.39 4.39 0 00-3.2 1.17A4.36 4.36 0 008 5v2.45H5v3.38h3v8.67h3.54v-8.67h2.94l.45-3.38h-3.44V5.3a1.91 1.91 0 01.35-1.24z"/></symbol><symbol id="sprite-icon-filter" viewBox="0 0 20 12"><path d="M3 5h14v2H3zm3 5h8v2H6zM0 0h20v2H0z"/></symbol><symbol id="sprite-icon-info-large" viewBox="0 0 60 60"><g fill-rule="evenodd"><circle cx="30" cy="30" r="30"/><path d="M29.8 20.55c2.1 0 3.8-1.7 3.8-3.8 0-2.1-1.7-3.75-3.8-3.75-2.05 0-3.8 1.65-3.8 3.75s1.75 3.8 3.8 3.8zM33 47.3V23.15h-6.35V47.3H33z" fill="#1D2B39" fill-rule="nonzero"/></g></symbol><symbol id="sprite-icon-info" viewBox="0 0 20 20"><path d="M10 0c5.523 0 10 4.477 10 10s-4.477 10-10 10S0 15.523 0 10 4.477 0 10 0zm1.52 7.654H9.234v8.694h2.286V7.654zM10.368 4C9.63 4 9 4.594 9 5.35c0 .756.63 1.368 1.368 1.368.756 0 1.368-.612 1.368-1.368 0-.756-.612-1.35-1.368-1.35z" fill-rule="evenodd"/></symbol><symbol id="sprite-icon-instagram" viewBox="0 0 17 17"><path d="M10.503 10.503a2.73 2.73 0 00.83-2.003 2.73 2.73 0 00-.83-2.003 2.73 2.73 0 00-2.003-.83 2.73 2.73 0 00-2.003.83 2.73 2.73 0 00-.83 2.003c0 .782.276 1.45.83 2.003a2.73 2.73 0 002.003.83 2.73 2.73 0 002.003-.83zm1.085-5.09c.848.848 1.273 1.877 1.273 3.087 0 1.21-.425 2.24-1.273 3.088-.849.848-1.878 1.273-3.088 1.273-1.21 0-2.24-.425-3.088-1.273C4.564 10.739 4.14 9.71 4.14 8.5c0-1.21.425-2.24 1.273-3.088C6.261 4.564 7.29 4.14 8.5 4.14c1.21 0 2.24.425 3.088 1.273zm2.17-2.17c.198.2.298.439.298.72 0 .28-.1.52-.299.719a.98.98 0 01-.72.298.98.98 0 01-.719-.298.98.98 0 01-.298-.72c0-.28.1-.52.298-.72a.98.98 0 01.72-.298c.28 0 .52.1.72.299zM9.34 1.527H8.5l-.847-.005a60.042 60.042 0 00-1.167 0c-.266.003-.622.015-1.068.033a8.77 8.77 0 00-1.14.11 4.438 4.438 0 00-.792.205 2.871 2.871 0 00-.974.642 2.88 2.88 0 00-.642.974c-.08.214-.149.478-.204.792a8.77 8.77 0 00-.111 1.14c-.018.446-.03.802-.033 1.068-.004.265-.004.655 0 1.167l.005.847-.005.847c-.004.512-.004.902 0 1.167.003.266.015.622.033 1.068.018.447.055.827.11 1.14.056.314.124.578.205.792a2.89 2.89 0 001.616 1.616c.214.08.478.149.792.204a8.77 8.77 0 001.14.111c.446.018.802.03 1.068.033.265.004.655.004 1.167 0l.847-.005.847.005c.512.004.902.004 1.167 0 .266-.003.622-.015 1.068-.033a8.77 8.77 0 001.14-.11c.314-.056.578-.124.792-.205a2.89 2.89 0 001.616-1.616c.08-.214.149-.478.204-.792a8.77 8.77 0 00.111-1.14c.018-.446.03-.802.033-1.068.004-.265.004-.655 0-1.167a294.85 294.85 0 01-.005-.847l.005-.847c.004-.512.004-.902 0-1.167a41.003 41.003 0 00-.033-1.068 8.77 8.77 0 00-.11-1.14 4.438 4.438 0 00-.205-.792 2.871 2.871 0 00-.642-.974 2.871 2.871 0 00-.974-.642 4.438 4.438 0 00-.792-.204 8.77 8.77 0 00-1.14-.111c-.446-.018-.802-.03-1.068-.033a45.224 45.224 0 00-1.173.005zm7.604 3.465C16.982 5.64 17 6.81 17 8.5s-.018 2.86-.055 3.508c-.074 1.535-.532 2.723-1.373 3.564-.84.841-2.029 1.299-3.564 1.373-.649.037-1.818.055-3.508.055s-2.86-.018-3.508-.055c-1.535-.074-2.723-.532-3.564-1.373-.841-.84-1.299-2.029-1.373-3.564C.018 11.36 0 10.19 0 8.5s.018-2.86.055-3.508C.13 3.457.587 2.269 1.428 1.428 2.268.587 3.457.129 4.992.055 5.64.018 6.81 0 8.5 0s2.86.018 3.508.055c1.535.074 2.723.532 3.564 1.373.841.84 1.299 2.029 1.373 3.564z" fill-rule="nonzero"/></symbol><symbol id="sprite-icon-linkedin" viewBox="0 0 20 20"><path d="M11 8.73a4.46 4.46 0 01.43-.57 3.65 3.65 0 01.63-.57 2.87 2.87 0 011-.47A4.2 4.2 0 0114.31 7a3.94 3.94 0 013 1.24 5.11 5.11 0 011.15 3.62V18h-3.6v-5.78a3.1 3.1 0 00-.45-1.79A1.58 1.58 0 0013 9.78a1.85 1.85 0 00-1.17.38 2.3 2.3 0 00-.7.93A2.63 2.63 0 0011 12v6H7.38V7.2H11zM5.6 3.86A1.73 1.73 0 015 5.19a2.09 2.09 0 01-1.5.54 2 2 0 01-1.46-.54 1.76 1.76 0 01-.54-1.33 1.74 1.74 0 01.57-1.33A2.12 2.12 0 013.56 2 2.05 2.05 0 015 2.53a1.81 1.81 0 01.6 1.33zM5.36 7.2V18H1.71V7.2z"/></symbol><symbol id="sprite-icon-molecule" viewBox="0 0 600 600"><path d="M300 0C134.315 0 0 134.315 0 300s134.315 300 300 300 300-134.315 300-300S465.685 0 300 0zm.25 170.773c71.622 0 129.683 58.085 129.683 129.737 0 71.651-58.06 129.736-129.682 129.736-71.622 0-129.682-58.085-129.682-129.736 0-71.652 58.06-129.737 129.682-129.737z"/></symbol><symbol id="sprite-icon-plus-round" viewBox="0 0 20 20"><circle cx="10" cy="10" r="10" stroke-width="0"/><path d="M5.6 10h8.8M10 5.6v8.8" fill="none" stroke-linecap="square" stroke-width="2"/></symbol><symbol id="sprite-icon-print" viewBox="0 0 18.57 17.14"><path d="M17.94 7.77a2.05 2.05 0 00-1.51-.63h-.72V4.29a2.58 2.58 0 00-.22-1 2.7 2.7 0 00-.49-.83L13.26.76a2.59 2.59 0 00-.85-.54 2.54 2.54 0 00-1-.22H3.93a1 1 0 00-.76.31 1 1 0 00-.31.76v6.07h-.72a2.07 2.07 0 00-1.51.63A2.08 2.08 0 000 9.29v4.64a.34.34 0 00.11.25.34.34 0 00.25.11h2.5v1.78a1.06 1.06 0 001.07 1.07h10.71a1.06 1.06 0 001.07-1.07v-1.78h2.5a.38.38 0 00.26-.11.33.33 0 00.1-.25V9.29a2.08 2.08 0 00-.63-1.52zm-3.65 7.94h-10v-2.85h10zm0-7.14h-10V1.43h7.14v1.78a1.08 1.08 0 001.07 1.08h1.79zm2.64 1.22a.7.7 0 01-1 0 .69.69 0 010-1 .71.71 0 011 1z"/></symbol><symbol id="sprite-icon-search" viewBox="0 0 15 15"><g fill-rule="evenodd"><path d="M6.6 0a6.6 6.6 0 100 13.2A6.6 6.6 0 006.6 0zm0 2a4.6 4.6 0 110 9.2 4.6 4.6 0 010-9.2z" fill-rule="nonzero"/><path d="M9.525 11.44l1.414-1.415 3.536 3.536-1.414 1.414z"/></g></symbol><symbol id="sprite-icon-single-quote" viewBox="0 0 14 25"><path d="M7.07 25c3.586 0 6.25-2.869 6.25-6.25s-2.357-5.84-5.43-5.84c-.615 0-1.435.102-1.64.205.512-3.484 3.791-7.582 7.07-9.631L8.914 0C3.689 3.689 0 9.734 0 16.393 0 21.823 3.279 25 7.07 25z" fill-rule="evenodd"/></symbol><symbol id="sprite-icon-star" viewBox="0 0 11 11"><path d="M8.324 11.214c.084 0 .148-.03.192-.091a.371.371 0 00.066-.224.953.953 0 00-.006-.126l-.542-3.15 2.287-2.231c.11-.11.164-.21.164-.302 0-.156-.117-.253-.353-.29L6.97 4.34 5.551 1.473c-.08-.173-.182-.259-.308-.259s-.23.086-.31.259L3.517 4.34.353 4.8C.118 4.837 0 4.934 0 5.09c0 .088.053.189.158.302l2.293 2.23-.542 3.151a1.08 1.08 0 00-.012.126c0 .088.022.163.066.224.044.06.11.091.198.091.076 0 .16-.025.252-.075l2.83-1.487 2.829 1.487a.51.51 0 00.252.075z" transform="translate(0 -1)" fill="#000" fill-rule="nonzero"/></symbol><symbol id="sprite-icon-twitter" viewBox="0 0 1200 1227"><path d="M714.163 519.284L1160.89 0h-105.86L667.137 450.887 357.328 0H0l468.492 681.821L0 1226.37h105.866l409.625-476.152 327.181 476.152H1200L714.137 519.284h.026zM569.165 687.828l-47.468-67.894-377.686-540.24h162.604l304.797 435.991 47.468 67.894 396.2 566.721H892.476L569.165 687.854v-.026z"/></symbol><symbol id="sprite-icon-vimeo" viewBox="0 0 20 18"><path d="M19.9 4.3c-1.1 6.5-7.4 12-9.2 13.2s-3.6-.5-4.2-1.8C5.7 14.2 3.6 6 3 5.3S.8 6 .8 6L0 4.9S3.4.7 6 .2s2.7 4.3 3.4 7.1c.6 2.6 1.1 4.1 1.6 4.1s1.6-1.5 2.8-3.7 0-4.2-2.3-2.8c.9-5.7 9.5-7.1 8.4-.6z"/></symbol></svg>    </div>
+
+    <div class="o-page">
+
+            <noscript>
+        <div class="relative z-30 bg-color-blue text-color-white" role="alert" aria-live="polite">
+          <div class="py-7 [ lg:py-12 ]">
+            <div class="container">
+              <div class="flex [ lg:items-center ]">
+                <svg class="w-14 h-14 mr-4 flex-shrink-0 text-color-yellow fill-current [ lg:mr-7 lg:h-16 lg:w-16 ]" focusable="false" aria-hidden="true">
+                  <use xlink:href="#sprite-icon-alert-large"></use>
+                </svg>
+
+                <div class="self-center mr-4 [ lg:mr-8 ] [ xxl:mr-12 ]">
+                  <div class="c-wysiwyg c-wysiwyg--flush-lists mt-2">
+                    Please enable JavaScript in your web browser to get the best experience.
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </noscript>
+      
+      
+        <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="relative">
+
+      <div class="relative" data-publish-date="2025-04-02"></div>
+  
+  
+    <div>
+    
+<div id="block-alerts">
+  
+          
+      
+
+
+
+<div class="alert alert--type--site-alert alert--informational hidden relative z-30 [ print:hidden ] border-b border-color-grey-light bg-color-white text-color-grey-dark" role="status" aria-live="polite" data-js-alert-banner>
+  <div class="py-4">
+    <div class="container">
+      <div class="flex [ lg:items-center ]">
+                          <svg  class="w-9 h-9 mr-4 flex-shrink-0 fill-current lg:mr-7 text-color-99CAD1" focusable="false" aria-hidden="true">
+            <use xlink:href="#sprite-icon-alert-large"></use>
+          </svg>
+        
+
+                <div class="self-center mr-4 [ lg:mr-8 ] [ xxl:mr-12 ]">
+          <p class="text-3xl font-bold leading-tight mb-0 [ md:text-4xl ] [ lg:text-5xl ]">
+            
+          </p>
+
+                    <div class="c-wysiwyg c-wysiwyg--flush-lists c-wysiwyg--alert-link [ hidden ] [ lg:block ]" data-js-alert-text>
+            
+
+
+
+
+
+
+                
+    <p>Help us to improve our website by <a href="https://www.ofgem.gov.uk/take-part-research-help-us-improve-our-website">signing up to take part in research</a>.</p>
+
+  
+          </div>
+        </div>
+
+                  <button type="button" class="group ml-auto self-start flex-shrink-0 [ lg:self-auto ]" data-js-alert-close>
+            <span class="sr-only">Close alert: </span>
+            <svg class="w-4 h-4 stroke-current transition duration-200 [ group-hover:scale-125 group-focus:scale-125 ]" focusable="false" aria-hidden="true">
+              <use xlink:href="#sprite-icon-cross"></use>
+            </svg>
+          </button>
+                </div>
+
+            <div class="c-wysiwyg c-wysiwyg--flush-lists [ mt-2 ] [ lg:hidden ]">
+        
+
+
+
+
+
+
+                
+    <p>Help us to improve our website by <a href="https://www.ofgem.gov.uk/take-part-research-help-us-improve-our-website">signing up to take part in research</a>.</p>
+
+  
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+<div id="block-pathalerts">
+  
+          
+      
+  </div>
+
+  </div>
+
+
+  <header class="flex justify-between z-30 bg-color-white border-b border-color-orange [ lg:relative ]">
+      
+<div id="block-numiko-sitebranding" class="flex items-center mx-4 [ lg:flex-none ] [ xxl:mx-12 ] [ print:mx-0 ]">
+  
+          
+        <a href="/" title="Home" rel="home" class="print:href-hidden">
+      <img src="/themes/custom/numiko/logo.svg" alt="Ofgem" width="115" height="44" />
+    </a>
+  </div>
+
+
+
+    
+  <button type="button" class="group bg-color-grey-dark w-20 h-20 ml-auto text-color-white border-r border-color-orange [ lg:hidden ] [ print:hidden ]" aria-controls="block-mainnavigation" data-js-hamburger-primary>
+    <span class="c-hamburger transition duration-200 [ group-hover:scale-125 group-focus:scale-125 ]">
+      <span class="c-hamburger__lines">
+        <span class="sr-only" data-js-button-text>Open menu</span>
+      </span>
+    </span>
+  </button>
+
+  <div class="lg:w-full">
+    
+
+
+<nav aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="hidden w-full absolute mt-20 left-0 z-20 h-menu-mobile bg-color-grey-dark text-color-white overflow-auto [ lg:block lg:static lg:m-0 lg:h-auto lg:text-center lg:bg-color-transparent lg:text-color-inherit lg:border-0 ] [ print:hidden ] menu menu--block-mainnavigation" data-js-menu-main>
+            
+  <h2  class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+  
+
+        
+
+<div class="border-t border-color-orange [ lg:border-0 ]">
+          
+    
+    
+          <ul class="menu menu--level-0 mb-0 relative [ lg:flex lg:static ]" data-js-menu-container data-js-menu data-js-menu-level-0>
+    
+    
+      
+      
+      
+      <li class="menu__item menu__item--expanded menu__item--level-0 c-menu--main__item flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 [ lg:border-b-0 lg:mx-0 lg:py-7 ]  ]" data-js-menu-item-level-0>
+
+        
+        
+                          
+                          
+        <a  data-js-menu-drilldown-button="" aria-haspopup="true" data-js-menu-dropdown-button="" class="menu__link menu__link--level-0 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] menu__link--expanded [ lg:inline-flex ] c-menu--main__link  [ lg:border-l lg:border-color-orange lg:px-4 lg:py-0 lg:min-h-11 ]" data-js-menu-link-level-0 href="/about-us">
+          <span class="w-full animate-underline-target pointer-events-none">About us</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron-double"></use>
+                      </svg>
+        </a>
+                                  
+    
+    
+          <div  class="menu__submenu menu__submenu--level-1 absolute top-0 left-full w-full hidden bg-color-grey-dark text-left text-color-white z-10 will-change-transform [ lg:absolute lg:inset-x-0 lg:top-full lg:overflow-hidden lg:border-b lg:border-color-orange ]" data-js-menu data-js-menu-level-1>
+
+                  <div class="[ lg:flex lg:py-14 lg:container ]">
+            <div class="w-full">
+        
+        <div class="flex items-center mb-3 shadow-menu-bottom [ lg:shadow-none lg:mb-0 ]">
+          <button class="flex items-center px-5 py-4 [ lg:hidden ]" data-js-menu-item data-js-menu-back>
+            <svg class="w-3 h-3 mr-2 fill-current ml-2 flex-none rotate-90 pointer-events-none" focusable="false" aria-hidden="true">
+              <use xlink:href="#sprite-icon-chevron-double"></use>
+            </svg>
+
+            <span class="pointer-events-none">Back</span>
+          </button>
+
+          
+            
+            <a class="c-button c-button--text p-4 font-bold text-color-inherit animate-hover-underline animate-hover-underline--medium border-l border-color-grey-semi [ lg:text-2xl lg:mb-6 lg:border-0 lg:p-0 ]" href="/about-us">
+              <span class="w-full animate-underline-target">About us</span>
+              <svg class="c-button__chevron fill-color-grey-semi stroke-color-white " focusable="false" aria-hidden="true">
+                <use xlink:href="#sprite-icon-chevron-round"></use>
+              </svg>
+            </a>
+                  </div>
+
+      <ul class="menu menu--level-1 lg:-ml-14 lg:columns-3">
+
+    
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/about-us/how-we-work">
+          <span class="w-full animate-underline-target pointer-events-none">How we work</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/about-us/who-we-are">
+          <span class="w-full animate-underline-target pointer-events-none">Who we are</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] menu__link--Ofgem’s strategy and objectives for protecting consumers, supporting decarbonisation and improving the energy system. js-Ofgem’s strategy and objectives for protecting consumers, supporting decarbonisation and improving the energy system. animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/about-us/our-strategy">
+          <span class="w-full animate-underline-target pointer-events-none">Our strategy</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/contact-us">
+          <span class="w-full animate-underline-target pointer-events-none">Contact us</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/corporate-policies">
+          <span class="w-full animate-underline-target pointer-events-none">Corporate policies</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/about-us/working-ofgem">
+          <span class="w-full animate-underline-target pointer-events-none">Working for Ofgem</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/about-us/ofgem-annual-reports">
+          <span class="w-full animate-underline-target pointer-events-none">Ofgem annual reports</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/about-us/ofgem-whistleblowing-annual-reports">
+          <span class="w-full animate-underline-target pointer-events-none">Ofgem whistleblowing annual reports</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+              </ul>
+                    </div>
+          </div>
+              </div>
+        
+              </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--expanded menu__item--level-0 menu__item--mega c-menu--main__item flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 [ lg:border-b-0 lg:mx-0 lg:py-7 ]  ]" data-js-menu-item-level-0>
+
+        
+        
+                          
+                          
+        <a  data-js-menu-drilldown-button="" aria-haspopup="true" data-js-menu-dropdown-button="" class="menu__link menu__link--level-0 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] menu__link--expanded [ lg:inline-flex ] c-menu--main__link  [ lg:border-l lg:border-color-orange lg:px-4 lg:py-0 lg:min-h-11 ]" data-js-menu-link-level-0 href="/information-consumers">
+          <span class="w-full animate-underline-target pointer-events-none">Information for consumers</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron-double"></use>
+                      </svg>
+        </a>
+                                  
+    
+    
+          <div  class="menu__submenu menu__submenu--level-1 absolute top-0 left-full w-full hidden bg-color-grey-dark text-left text-color-white z-10 will-change-transform [ lg:absolute lg:inset-x-0 lg:top-full lg:overflow-hidden lg:border-b lg:border-color-orange ]" data-js-menu data-js-menu-level-1>
+
+                  <div class="[ lg:flex lg:py-14 lg:container ]">
+            <div class="w-full">
+        
+        <div class="flex items-center mb-3 shadow-menu-bottom [ lg:shadow-none lg:mb-0 ]">
+          <button class="flex items-center px-5 py-4 [ lg:hidden ]" data-js-menu-item data-js-menu-back>
+            <svg class="w-3 h-3 mr-2 fill-current ml-2 flex-none rotate-90 pointer-events-none" focusable="false" aria-hidden="true">
+              <use xlink:href="#sprite-icon-chevron-double"></use>
+            </svg>
+
+            <span class="pointer-events-none">Back</span>
+          </button>
+
+          
+            
+            <a class="c-button c-button--text p-4 font-bold text-color-inherit animate-hover-underline animate-hover-underline--medium border-l border-color-grey-semi [ lg:text-2xl lg:mb-6 lg:border-0 lg:p-0 ]" href="/information-consumers">
+              <span class="w-full animate-underline-target">Information for consumers</span>
+              <svg class="c-button__chevron fill-color-grey-semi stroke-color-white " focusable="false" aria-hidden="true">
+                <use xlink:href="#sprite-icon-chevron-round"></use>
+              </svg>
+            </a>
+                  </div>
+
+      <ul class="menu menu--level-1 lg:-ml-14 lg:columns-3">
+
+    
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/information-consumers/energy-advice-households">
+          <span class="w-full animate-underline-target pointer-events-none">Energy advice for households</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/information-consumers/energy-advice-businesses">
+          <span class="w-full animate-underline-target pointer-events-none">Energy advice for businesses</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+              </ul>
+                    </div>
+          </div>
+              </div>
+        
+              </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--expanded menu__item--level-0 c-menu--main__item flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 [ lg:border-b-0 lg:mx-0 lg:py-7 ]  ]" data-js-menu-item-level-0>
+
+        
+        
+                          
+                          
+        <a  data-js-menu-drilldown-button="" aria-haspopup="true" data-js-menu-dropdown-button="" class="menu__link menu__link--level-0 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] menu__link--expanded [ lg:inline-flex ] c-menu--main__link  [ lg:border-l lg:border-color-orange lg:px-4 lg:py-0 lg:min-h-11 ]" data-js-menu-link-level-0 href="/environmental-and-social-schemes">
+          <span class="w-full animate-underline-target pointer-events-none">Environmental and social schemes</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron-double"></use>
+                      </svg>
+        </a>
+                                  
+    
+    
+          <div  class="menu__submenu menu__submenu--level-1 absolute top-0 left-full w-full hidden bg-color-grey-dark text-left text-color-white z-10 will-change-transform [ lg:absolute lg:inset-x-0 lg:top-full lg:overflow-hidden lg:border-b lg:border-color-orange ]" data-js-menu data-js-menu-level-1>
+
+                  <div class="[ lg:flex lg:py-14 lg:container ]">
+            <div class="w-full">
+        
+        <div class="flex items-center mb-3 shadow-menu-bottom [ lg:shadow-none lg:mb-0 ]">
+          <button class="flex items-center px-5 py-4 [ lg:hidden ]" data-js-menu-item data-js-menu-back>
+            <svg class="w-3 h-3 mr-2 fill-current ml-2 flex-none rotate-90 pointer-events-none" focusable="false" aria-hidden="true">
+              <use xlink:href="#sprite-icon-chevron-double"></use>
+            </svg>
+
+            <span class="pointer-events-none">Back</span>
+          </button>
+
+          
+            
+            <a class="c-button c-button--text p-4 font-bold text-color-inherit animate-hover-underline animate-hover-underline--medium border-l border-color-grey-semi [ lg:text-2xl lg:mb-6 lg:border-0 lg:p-0 ]" href="/environmental-and-social-schemes">
+              <span class="w-full animate-underline-target">Environmental and social schemes</span>
+              <svg class="c-button__chevron fill-color-grey-semi stroke-color-white " focusable="false" aria-hidden="true">
+                <use xlink:href="#sprite-icon-chevron-round"></use>
+              </svg>
+            </a>
+                  </div>
+
+      <ul class="menu menu--level-1 lg:-ml-14 lg:columns-3">
+
+    
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/environmental-and-social-schemes/boiler-upgrade-scheme-bus">
+          <span class="w-full animate-underline-target pointer-events-none">Boiler Upgrade Scheme (BUS)</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/environmental-and-social-schemes/counter-fraud-environmental-and-social-programmes">
+          <span class="w-full animate-underline-target pointer-events-none">Counter fraud for environmental and social programmes</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/environmental-and-social-schemes/domestic-renewable-heat-incentive-domestic-rhi">
+          <span class="w-full animate-underline-target pointer-events-none">Domestic Renewable Heat Incentive (Domestic RHI)</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/environmental-and-social-schemes/energy-company-obligation-eco">
+          <span class="w-full animate-underline-target pointer-events-none">Energy Company Obligation (ECO)</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/environmental-and-social-schemes/feed-tariffs-fit">
+          <span class="w-full animate-underline-target pointer-events-none">Feed-in Tariffs (FIT)</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/environmental-and-social-schemes/great-british-insulation-scheme">
+          <span class="w-full animate-underline-target pointer-events-none">Great British Insulation Scheme</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/environmental-and-social-schemes/green-gas-support-scheme-and-green-gas-levy">
+          <span class="w-full animate-underline-target pointer-events-none">Green Gas Support Scheme (GGSS) and Green Gas Levy (GGL)</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/environmental-and-social-schemes/non-domestic-renewable-heat-incentive-rhi">
+          <span class="w-full animate-underline-target pointer-events-none">Non-Domestic Renewable Heat Incentive (RHI)</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/about-northern-ireland-non-domestic-renewable-heat-incentive">
+          <span class="w-full animate-underline-target pointer-events-none">Northern Ireland Non-Domestic Renewable Heat Incentive</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/environmental-and-social-schemes/offtaker-last-resort-olr">
+          <span class="w-full animate-underline-target pointer-events-none">Offtaker of Last Resort (OLR)</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/environmental-programmes/renewable-electricity-register">
+          <span class="w-full animate-underline-target pointer-events-none">Renewable Electricity Register</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/environmental-and-social-schemes/renewable-energy-guarantees-origin-rego">
+          <span class="w-full animate-underline-target pointer-events-none">Renewables Energy Guarantees Origin (REGO)</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/environmental-and-social-schemes/renewables-obligation-ro">
+          <span class="w-full animate-underline-target pointer-events-none">Renewables Obligation (RO)</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/environmental-and-social-schemes/smart-export-guarantee-seg">
+          <span class="w-full animate-underline-target pointer-events-none">Smart Export Guarantee (SEG)</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/environmental-and-social-schemes/warm-home-discount-whd">
+          <span class="w-full animate-underline-target pointer-events-none">Warm Home Discount (WHD)</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/environmental-and-social-schemes/previous-environmental-and-social-schemes">
+          <span class="w-full animate-underline-target pointer-events-none">Previous Environmental and Social Schemes</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+              </ul>
+                    </div>
+          </div>
+              </div>
+        
+              </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--expanded menu__item--level-0 c-menu--main__item flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 [ lg:border-b-0 lg:mx-0 lg:py-7 ]  ]" data-js-menu-item-level-0>
+
+        
+        
+                          
+                          
+        <a  data-js-menu-drilldown-button="" aria-haspopup="true" data-js-menu-dropdown-button="" class="menu__link menu__link--level-0 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] menu__link--expanded [ lg:inline-flex ] c-menu--main__link  [ lg:border-l lg:border-color-orange lg:px-4 lg:py-0 lg:min-h-11 ]" data-js-menu-link-level-0 href="/energy-policy-and-regulation">
+          <span class="w-full animate-underline-target pointer-events-none">Energy policy and regulation</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron-double"></use>
+                      </svg>
+        </a>
+                                  
+    
+    
+          <div  class="menu__submenu menu__submenu--level-1 absolute top-0 left-full w-full hidden bg-color-grey-dark text-left text-color-white z-10 will-change-transform [ lg:absolute lg:inset-x-0 lg:top-full lg:overflow-hidden lg:border-b lg:border-color-orange ]" data-js-menu data-js-menu-level-1>
+
+                  <div class="[ lg:flex lg:py-14 lg:container ]">
+            <div class="w-full">
+        
+        <div class="flex items-center mb-3 shadow-menu-bottom [ lg:shadow-none lg:mb-0 ]">
+          <button class="flex items-center px-5 py-4 [ lg:hidden ]" data-js-menu-item data-js-menu-back>
+            <svg class="w-3 h-3 mr-2 fill-current ml-2 flex-none rotate-90 pointer-events-none" focusable="false" aria-hidden="true">
+              <use xlink:href="#sprite-icon-chevron-double"></use>
+            </svg>
+
+            <span class="pointer-events-none">Back</span>
+          </button>
+
+          
+            
+            <a class="c-button c-button--text p-4 font-bold text-color-inherit animate-hover-underline animate-hover-underline--medium border-l border-color-grey-semi [ lg:text-2xl lg:mb-6 lg:border-0 lg:p-0 ]" href="/energy-policy-and-regulation">
+              <span class="w-full animate-underline-target">Energy policy and regulation</span>
+              <svg class="c-button__chevron fill-color-grey-semi stroke-color-white " focusable="false" aria-hidden="true">
+                <use xlink:href="#sprite-icon-chevron-round"></use>
+              </svg>
+            </a>
+                  </div>
+
+      <ul class="menu menu--level-1 lg:-ml-14 lg:columns-3">
+
+    
+    
+      
+      
+      
+      <li class="menu__item menu__item--expanded menu__item--level-1 break-avoid flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+                          
+                          
+        <a  data-js-menu-drilldown-button="" aria-haspopup="true" class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] menu__link--expanded animate-hover-underline [ lg:inline-flex ] c-button c-button--text lg:mb-4" data-js-menu-link-level-1 href="/energy-policy-and-regulation/industry-licensing">
+          <span class="w-full animate-underline-target pointer-events-none">Industry licensing</span>
+
+                      <svg class="c-button__chevron fill-color-grey-semi stroke-color-white hidden pointer-events-none [ lg:block ]" focusable="false" aria-hidden="true">
+              <use xlink:href="#sprite-icon-chevron-round"></use>
+            </svg>
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron-double"></use>
+                      </svg>
+        </a>
+                                  
+    
+    
+          <div  class="menu__submenu menu__submenu--level-2 absolute top-0 left-full w-full [ lg:static lg:w-auto ] hidden" data-js-menu data-js-menu-level-2>
+
+        
+        <div class="flex items-center mb-3 shadow-menu-bottom [ lg:shadow-none lg:mb-0 ]">
+          <button class="flex items-center px-5 py-4 [ lg:hidden ]" data-js-menu-item data-js-menu-back>
+            <svg class="w-3 h-3 mr-2 fill-current ml-2 flex-none rotate-90 pointer-events-none" focusable="false" aria-hidden="true">
+              <use xlink:href="#sprite-icon-chevron-double"></use>
+            </svg>
+
+            <span class="pointer-events-none">Back</span>
+          </button>
+
+          
+            
+            <a class="c-button c-button--text p-4 font-bold text-color-inherit animate-hover-underline animate-hover-underline--medium border-l border-color-grey-semi [ lg:text-2xl lg:mb-6 lg:border-0 lg:p-0 ] lg:hidden" href="/energy-policy-and-regulation/industry-licensing">
+              <span class="w-full animate-underline-target">Industry licensing</span>
+              <svg class="c-button__chevron fill-color-grey-semi stroke-color-white " focusable="false" aria-hidden="true">
+                <use xlink:href="#sprite-icon-chevron-round"></use>
+              </svg>
+            </a>
+                  </div>
+
+      <ul class="menu menu--level-2">
+
+    
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-2 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:mb-4  ]" data-js-menu-item-level-2>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-2 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] [ lg:ml-5 lg:text-color-white-700 ]" data-js-menu-link-level-2 href="/licences-and-licence-conditions">
+          <span class="w-full animate-underline-target pointer-events-none">Licences and licence conditions</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-2 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:mb-4  ]" data-js-menu-item-level-2>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-2 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] [ lg:ml-5 lg:text-color-white-700 ]" data-js-menu-link-level-2 href="/energy-policy-and-regulation/industry-licensing/how-become-licensed-gas-or-electricity-company">
+          <span class="w-full animate-underline-target pointer-events-none">How to become a licensed gas or electricity company</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-2 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:mb-4  ]" data-js-menu-item-level-2>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-2 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] [ lg:ml-5 lg:text-color-white-700 ]" data-js-menu-link-level-2 href="/licence-modifications-derogations-revocations-and-transfers">
+          <span class="w-full animate-underline-target pointer-events-none">Licence modifications, derogations, revocations and transfers</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-2 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:mb-4  ]" data-js-menu-item-level-2>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-2 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] [ lg:ml-5 lg:text-color-white-700 ]" data-js-menu-link-level-2 href="/industry-licensing/lists-licensed-companies">
+          <span class="w-full animate-underline-target pointer-events-none">Lists of licensed companies</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+              </ul>
+              </div>
+        
+              </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/energy-policy-and-regulation/industry-codes-and-standards">
+          <span class="w-full animate-underline-target pointer-events-none">Industry codes and standards</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/energy-policy-and-regulation/measuring-impact-our-policy-decisions">
+          <span class="w-full animate-underline-target pointer-events-none">Measuring the impact of our policy decisions</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/energy-policy-and-regulation/compliance-and-enforcement">
+          <span class="w-full animate-underline-target pointer-events-none">Compliance and enforcement</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--expanded menu__item--level-1 break-avoid flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+                          
+                          
+        <a  data-js-menu-drilldown-button="" aria-haspopup="true" class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] menu__link--expanded animate-hover-underline [ lg:inline-flex ] c-button c-button--text lg:mb-4" data-js-menu-link-level-1 href="/engagement">
+          <span class="w-full animate-underline-target pointer-events-none">Engagement</span>
+
+                      <svg class="c-button__chevron fill-color-grey-semi stroke-color-white hidden pointer-events-none [ lg:block ]" focusable="false" aria-hidden="true">
+              <use xlink:href="#sprite-icon-chevron-round"></use>
+            </svg>
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron-double"></use>
+                      </svg>
+        </a>
+                                  
+    
+    
+          <div  class="menu__submenu menu__submenu--level-2 absolute top-0 left-full w-full [ lg:static lg:w-auto ] hidden" data-js-menu data-js-menu-level-2>
+
+        
+        <div class="flex items-center mb-3 shadow-menu-bottom [ lg:shadow-none lg:mb-0 ]">
+          <button class="flex items-center px-5 py-4 [ lg:hidden ]" data-js-menu-item data-js-menu-back>
+            <svg class="w-3 h-3 mr-2 fill-current ml-2 flex-none rotate-90 pointer-events-none" focusable="false" aria-hidden="true">
+              <use xlink:href="#sprite-icon-chevron-double"></use>
+            </svg>
+
+            <span class="pointer-events-none">Back</span>
+          </button>
+
+          
+            
+            <a class="c-button c-button--text p-4 font-bold text-color-inherit animate-hover-underline animate-hover-underline--medium border-l border-color-grey-semi [ lg:text-2xl lg:mb-6 lg:border-0 lg:p-0 ] lg:hidden" href="/engagement">
+              <span class="w-full animate-underline-target">Engagement</span>
+              <svg class="c-button__chevron fill-color-grey-semi stroke-color-white " focusable="false" aria-hidden="true">
+                <use xlink:href="#sprite-icon-chevron-round"></use>
+              </svg>
+            </a>
+                  </div>
+
+      <ul class="menu menu--level-2">
+
+    
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-2 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:mb-4  ]" data-js-menu-item-level-2>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-2 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] [ lg:ml-5 lg:text-color-white-700 ]" data-js-menu-link-level-2 href="/engagement/consultations">
+          <span class="w-full animate-underline-target pointer-events-none">Consultations</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-2 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:mb-4  ]" data-js-menu-item-level-2>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-2 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] [ lg:ml-5 lg:text-color-white-700 ]" data-js-menu-link-level-2 href="/calls-input">
+          <span class="w-full animate-underline-target pointer-events-none">Calls for Input</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--collapsed menu__item--level-2 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:mb-4  ]" data-js-menu-item-level-2>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-2 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] [ lg:ml-5 lg:text-color-white-700 ]" data-js-menu-link-level-2 href="/forums-and-working-groups">
+          <span class="w-full animate-underline-target pointer-events-none">Forums and working groups</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+              </ul>
+              </div>
+        
+              </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--expanded menu__item--level-1 break-avoid flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+                          
+                          
+        <a  data-js-menu-drilldown-button="" aria-haspopup="true" class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] menu__link--expanded animate-hover-underline [ lg:inline-flex ] c-button c-button--text lg:mb-4" data-js-menu-link-level-1 href="/energy-policy-and-regulation/policy-and-regulatory-programmes">
+          <span class="w-full animate-underline-target pointer-events-none">Policy and regulatory programmes</span>
+
+                      <svg class="c-button__chevron fill-color-grey-semi stroke-color-white hidden pointer-events-none [ lg:block ]" focusable="false" aria-hidden="true">
+              <use xlink:href="#sprite-icon-chevron-round"></use>
+            </svg>
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron-double"></use>
+                      </svg>
+        </a>
+                                  
+    
+    
+          <div  class="menu__submenu menu__submenu--level-2 absolute top-0 left-full w-full [ lg:static lg:w-auto ] hidden" data-js-menu data-js-menu-level-2>
+
+        
+        <div class="flex items-center mb-3 shadow-menu-bottom [ lg:shadow-none lg:mb-0 ]">
+          <button class="flex items-center px-5 py-4 [ lg:hidden ]" data-js-menu-item data-js-menu-back>
+            <svg class="w-3 h-3 mr-2 fill-current ml-2 flex-none rotate-90 pointer-events-none" focusable="false" aria-hidden="true">
+              <use xlink:href="#sprite-icon-chevron-double"></use>
+            </svg>
+
+            <span class="pointer-events-none">Back</span>
+          </button>
+
+          
+            
+            <a class="c-button c-button--text p-4 font-bold text-color-inherit animate-hover-underline animate-hover-underline--medium border-l border-color-grey-semi [ lg:text-2xl lg:mb-6 lg:border-0 lg:p-0 ] lg:hidden" href="/energy-policy-and-regulation/policy-and-regulatory-programmes">
+              <span class="w-full animate-underline-target">Policy and regulatory programmes</span>
+              <svg class="c-button__chevron fill-color-grey-semi stroke-color-white " focusable="false" aria-hidden="true">
+                <use xlink:href="#sprite-icon-chevron-round"></use>
+              </svg>
+            </a>
+                  </div>
+
+      <ul class="menu menu--level-2">
+
+    
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-2 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:mb-4  ]" data-js-menu-item-level-2>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-2 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] [ lg:ml-5 lg:text-color-white-700 ]" data-js-menu-link-level-2 href="/active-programmes">
+          <span class="w-full animate-underline-target pointer-events-none">Active programmes</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-2 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:mb-4  ]" data-js-menu-item-level-2>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-2 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] [ lg:ml-5 lg:text-color-white-700 ]" data-js-menu-link-level-2 href="/inactive-programmes">
+          <span class="w-full animate-underline-target pointer-events-none">Inactive programmes</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+              </ul>
+              </div>
+        
+              </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--expanded menu__item--level-1 break-avoid flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+                          
+                          
+        <a  data-js-menu-drilldown-button="" aria-haspopup="true" class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] menu__link--expanded animate-hover-underline [ lg:inline-flex ] c-button c-button--text lg:mb-4" data-js-menu-link-level-1 href="/policy-and-regulatory-publications">
+          <span class="w-full animate-underline-target pointer-events-none">Policy and regulatory publications</span>
+
+                      <svg class="c-button__chevron fill-color-grey-semi stroke-color-white hidden pointer-events-none [ lg:block ]" focusable="false" aria-hidden="true">
+              <use xlink:href="#sprite-icon-chevron-round"></use>
+            </svg>
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron-double"></use>
+                      </svg>
+        </a>
+                                  
+    
+    
+          <div  class="menu__submenu menu__submenu--level-2 absolute top-0 left-full w-full [ lg:static lg:w-auto ] hidden" data-js-menu data-js-menu-level-2>
+
+        
+        <div class="flex items-center mb-3 shadow-menu-bottom [ lg:shadow-none lg:mb-0 ]">
+          <button class="flex items-center px-5 py-4 [ lg:hidden ]" data-js-menu-item data-js-menu-back>
+            <svg class="w-3 h-3 mr-2 fill-current ml-2 flex-none rotate-90 pointer-events-none" focusable="false" aria-hidden="true">
+              <use xlink:href="#sprite-icon-chevron-double"></use>
+            </svg>
+
+            <span class="pointer-events-none">Back</span>
+          </button>
+
+          
+            
+            <a class="c-button c-button--text p-4 font-bold text-color-inherit animate-hover-underline animate-hover-underline--medium border-l border-color-grey-semi [ lg:text-2xl lg:mb-6 lg:border-0 lg:p-0 ] lg:hidden" href="/policy-and-regulatory-publications">
+              <span class="w-full animate-underline-target">Policy and regulatory publications</span>
+              <svg class="c-button__chevron fill-color-grey-semi stroke-color-white " focusable="false" aria-hidden="true">
+                <use xlink:href="#sprite-icon-chevron-round"></use>
+              </svg>
+            </a>
+                  </div>
+
+      <ul class="menu menu--level-2">
+
+    
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-2 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:mb-4  ]" data-js-menu-item-level-2>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-2 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] [ lg:ml-5 lg:text-color-white-700 ]" data-js-menu-link-level-2 href="/energy-policy-and-regulation/companies">
+          <span class="w-full animate-underline-target pointer-events-none">Company publications</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-2 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:mb-4  ]" data-js-menu-item-level-2>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-2 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] [ lg:ml-5 lg:text-color-white-700 ]" data-js-menu-link-level-2 href="/licence-and-sectoral-publications">
+          <span class="w-full animate-underline-target pointer-events-none">Licence and sectoral publications</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-2 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:mb-4  ]" data-js-menu-item-level-2>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-2 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] [ lg:ml-5 lg:text-color-white-700 ]" data-js-menu-link-level-2 href="/energy-policy-and-regulation/Publications-by-licence-and-licensee/industry-codes-publications">
+          <span class="w-full animate-underline-target pointer-events-none">Industry codes publications</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+              </ul>
+              </div>
+        
+              </li>
+              </ul>
+                    </div>
+          </div>
+              </div>
+        
+              </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--expanded menu__item--level-0 c-menu--main__item flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 [ lg:border-b-0 lg:mx-0 lg:py-7 ]  ]" data-js-menu-item-level-0>
+
+        
+        
+                          
+                          
+        <a  data-js-menu-drilldown-button="" aria-haspopup="true" data-js-menu-dropdown-button="" class="menu__link menu__link--level-0 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] menu__link--expanded [ lg:inline-flex ] c-menu--main__link  [ lg:border-l lg:border-color-orange lg:px-4 lg:py-0 lg:min-h-11 ]" data-js-menu-link-level-0 href="/energy-data-and-research">
+          <span class="w-full animate-underline-target pointer-events-none">Energy data and research</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron-double"></use>
+                      </svg>
+        </a>
+                                  
+    
+    
+          <div  class="menu__submenu menu__submenu--level-1 absolute top-0 left-full w-full hidden bg-color-grey-dark text-left text-color-white z-10 will-change-transform [ lg:absolute lg:inset-x-0 lg:top-full lg:overflow-hidden lg:border-b lg:border-color-orange ]" data-js-menu data-js-menu-level-1>
+
+                  <div class="[ lg:flex lg:py-14 lg:container ]">
+            <div class="w-full">
+        
+        <div class="flex items-center mb-3 shadow-menu-bottom [ lg:shadow-none lg:mb-0 ]">
+          <button class="flex items-center px-5 py-4 [ lg:hidden ]" data-js-menu-item data-js-menu-back>
+            <svg class="w-3 h-3 mr-2 fill-current ml-2 flex-none rotate-90 pointer-events-none" focusable="false" aria-hidden="true">
+              <use xlink:href="#sprite-icon-chevron-double"></use>
+            </svg>
+
+            <span class="pointer-events-none">Back</span>
+          </button>
+
+          
+            
+            <a class="c-button c-button--text p-4 font-bold text-color-inherit animate-hover-underline animate-hover-underline--medium border-l border-color-grey-semi [ lg:text-2xl lg:mb-6 lg:border-0 lg:p-0 ]" href="/energy-data-and-research">
+              <span class="w-full animate-underline-target">Energy data and research</span>
+              <svg class="c-button__chevron fill-color-grey-semi stroke-color-white " focusable="false" aria-hidden="true">
+                <use xlink:href="#sprite-icon-chevron-round"></use>
+              </svg>
+            </a>
+                  </div>
+
+      <ul class="menu menu--level-1 lg:-ml-14 lg:columns-3">
+
+    
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/energy-data-and-research/data-portal">
+          <span class="w-full animate-underline-target pointer-events-none">Data portal</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/energy-data-and-research/energy-data-publications">
+          <span class="w-full animate-underline-target pointer-events-none">Energy data publications</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/ofgem-consumer-research">
+          <span class="w-full animate-underline-target pointer-events-none">Ofgem consumer research</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+              </ul>
+                    </div>
+          </div>
+              </div>
+        
+              </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--expanded menu__item--level-0 c-menu--main__item flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 [ lg:border-b-0 lg:mx-0 lg:py-7 ]  ]" data-js-menu-item-level-0>
+
+        
+        
+                          
+                          
+        <a  data-js-menu-drilldown-button="" aria-haspopup="true" data-js-menu-dropdown-button="" class="menu__link menu__link--level-0 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] menu__link--expanded menu__link--News and views js-News and views [ lg:inline-flex ] c-menu--main__link  [ lg:border-l lg:border-color-orange lg:px-4 lg:py-0 lg:min-h-11 ]" data-js-menu-link-level-0 href="/news-and-views">
+          <span class="w-full animate-underline-target pointer-events-none">News and views</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron-double"></use>
+                      </svg>
+        </a>
+                                  
+    
+    
+          <div  class="menu__submenu menu__submenu--level-1 absolute top-0 left-full w-full hidden bg-color-grey-dark text-left text-color-white z-10 will-change-transform [ lg:absolute lg:inset-x-0 lg:top-full lg:overflow-hidden lg:border-b lg:border-color-orange ]" data-js-menu data-js-menu-level-1>
+
+                  <div class="[ lg:flex lg:py-14 lg:container ]">
+            <div class="w-full">
+        
+        <div class="flex items-center mb-3 shadow-menu-bottom [ lg:shadow-none lg:mb-0 ]">
+          <button class="flex items-center px-5 py-4 [ lg:hidden ]" data-js-menu-item data-js-menu-back>
+            <svg class="w-3 h-3 mr-2 fill-current ml-2 flex-none rotate-90 pointer-events-none" focusable="false" aria-hidden="true">
+              <use xlink:href="#sprite-icon-chevron-double"></use>
+            </svg>
+
+            <span class="pointer-events-none">Back</span>
+          </button>
+
+          
+            
+            <a class="c-button c-button--text p-4 font-bold text-color-inherit animate-hover-underline animate-hover-underline--medium border-l border-color-grey-semi [ lg:text-2xl lg:mb-6 lg:border-0 lg:p-0 ]" href="/news-and-views">
+              <span class="w-full animate-underline-target">News and views</span>
+              <svg class="c-button__chevron fill-color-grey-semi stroke-color-white " focusable="false" aria-hidden="true">
+                <use xlink:href="#sprite-icon-chevron-round"></use>
+              </svg>
+            </a>
+                  </div>
+
+      <ul class="menu menu--level-1 lg:-ml-14 lg:columns-3">
+
+    
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/news-and-views/press-releases">
+          <span class="w-full animate-underline-target pointer-events-none">Press releases</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/news-and-views/blog">
+          <span class="w-full animate-underline-target pointer-events-none">Blog</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/news-and-views/news">
+          <span class="w-full animate-underline-target pointer-events-none">News</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+    
+      
+      
+      
+      <li class="menu__item menu__item--level-1 flex items-center flex-1 mx-4 border-b border-color-grey-semi last:border-b-0 [ lg:mx-0 lg:border-0 lg:pl-14 lg:block  ]" data-js-menu-item-level-1>
+
+        
+        
+        
+                          
+        <a  class="menu__link menu__link--level-1 font-medium text-color-inherit group relative flex items-center flex-1 h-full py-5 no-underline leading-tight [ lg:py-0 ] animate-hover-underline [ lg:inline-block ] lg:mb-4" data-js-menu-link-level-1 href="/news-and-views/speeches-and-presentations">
+          <span class="w-full animate-underline-target pointer-events-none">Speeches and presentations</span>
+
+          
+          <svg class="w-3 h-3 fill-current ml-2 flex-none rotate-270 pointer-events-none [ lg:hidden ]" focusable="false" aria-hidden="true">
+                          <use xlink:href="#sprite-icon-chevron"></use>
+                      </svg>
+        </a>
+                      </li>
+              </ul>
+                    </div>
+          </div>
+              </div>
+        
+              </li>
+              </ul>
+      
+</div>
+
+
+  </nav>
+
+  </div>
+
+
+    <button
+  type="button"
+  class="group flex flex-none items-center transition-colors duration-200 justify-center w-20 h-20 bg-color-grey-dark text-color-white realtive z-20 [ lg:p-5 lg:h-auto ] [ print:hidden ]"
+  aria-controls="search-content"
+  aria-expanded="false"
+  data-js-search-button
+>
+  <svg class="w-4 h-4 flex-none fill-current transition-transform duration-200 [ group-hover:scale-125 group-focus:scale-125 ]" data-js-search-icon focusable="false" aria-hidden="true">
+    <use xlink:href="#sprite-icon-search"></use>
+  </svg>
+
+  <span class="sr-only" data-js-button-text>Show search</span>
+</button>
+
+<div id="search-content" class="hidden absolute top-20 left-0 w-full z-20 [ lg:top-full ]" aria-hidden="true">
+  <div data-js-site-search></div>
+</div>
+  </header>
+
+  
+
+  
+
+  
+
+  
+
+  <main>
+    <a id="main-content" tabindex="-1"></a>
+    
+    <div>
+    
+<div id="block-entityviewcontent">
+  
+          
+      
+
+
+          
+
+
+
+
+
+  
+
+
+<div class="c-hero | relative overflow-hidden bg-color-grey-dark text-color-white">
+  
+  
+
+  
+    <div class="flex">
+    <div class="container w-full items-end py-10 flex min-h-hero-compact-sm [ md:min-h-hero-compact-md ] [ print:min-h-0 print:py-0 ]">
+      <div class="relative md:mr-10">
+
+        
+        
+                  <h1 class="font-bold leading-extra-tight mb-5 last:mb-0 mt-10 [ lg:mt-0 ] md:text-7xl">
+            <span>Sorry, we can&#039;t seem to find that content for you</span>
+
+          </h1>
+                
+
+        
+                  
+
+          
+        
+                  
+        
+      </div>
+
+              <div class="hidden relative [ md:flex md:ml-auto md:flex-none ]">
+          <div class="hidden [ xl:inline-block xl:mr-3 ]">
+                      </div>
+
+                  </div>
+          </div>
+  </div>
+
+  
+      
+  </div>
+
+  </div>
+
+  </div>
+
+
+    <div class="layout-content">
+      
+    <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-numiko-mainpagecontent">
+  
+          
+      <div class="mb-20">
+
+  <div>
+    
+
+
+
+
+
+
+      
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  <div  data-js-slice>
+
+        
+                      <div class="container">
+      
+      <section aria-labelledby="paragraph-5510-title" class="paragraph paragraph--type--slice-content paragraph--view-mode--default relative my-12 md:my-20 [ md:flex md:flex-wrap md:items-start md:justify-between ]">
+
+                                            <div class="[ md:w-4/12 md:pr-10 ] [ lg:w-5/12 ] [ xxl:w-4/12 xxl:pr-0 ]">
+            
+            <div class="w-full">
+                              <h2 class="mb-3 text-4xl mb-5 md:text-5xl md:mb-10 lg:text-6xl lg:mb-12" id="paragraph-5510-title">
+                  
+
+
+
+
+
+
+                
+    That content isn&#039;t available
+  
+                </h2>
+              
+                          </div>
+
+                          </div>
+                              
+          <div class="[ md:w-8/12 md:ml-auto ] [ lg:w-7/12 ] c-wysiwyg">
+    
+    
+
+
+
+
+
+
+                
+    <p>The page you are looking for has been moved, or incorporated into a different page.</p>
+<p>Use the links below to search again, or get in touch if you have any further issues finding what you are looking for.</p>
+
+  
+
+      </div>
+
+              </section>
+
+              </div>
+          
+  </div>
+
+                
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div  data-js-slice>
+
+        
+                  <div class="container">
+      
+      <div class="paragraph paragraph--type--slice-column-content paragraph--view-mode--default relative my-12 md:my-20">
+
+                          
+          
+          <div class="w-full">
+    <div class="c-grid c-grid--3">
+        <div class="c-grid__item">
+    
+<div class="w-full border-t border-color-theme pt-6 [ xl:pt-8 ] ">
+  
+      <h3 class="text-lg mb-2 [ md:text-2xl ] [ xl:mb-3 ] [ last:mb-0 ]">
+
+
+
+
+
+
+                
+    Search
+  </h3>
+  
+      <div class="c-wysiwyg mb-3 leading-normal [ xl:mb-5 ] [ last:mb-0 ]">
+      
+
+
+
+
+
+
+                
+    <p>Click below to search all of the publications, content pages and charts available on ofgem.gov.uk.</p>
+
+  
+    </div>
+  
+      
+
+
+  
+  
+
+<a  class="group c-button c-button--cta mt-1 [ xl:mt-0 ]"  href="https://www.ofgem.gov.uk/search/" >
+  <span>Search ofgem.gov.uk</span>
+
+  <svg class="c-button__chevron fill-color-grey-semi stroke-color-white group-hover:fill-color-grey-dark group-focus:fill-color-grey-dark group-hover:stroke-color-white group-focus:stroke-color-white" focusable="false" aria-hidden="true">
+    <use xlink:href="#sprite-icon-chevron-round"></use>
+  </svg>
+</a>
+  </div>
+
+  </div>
+  <div class="c-grid__item">
+    
+<div class="w-full border-t border-color-theme pt-6 [ xl:pt-8 ] ">
+  
+      <h3 class="text-lg mb-2 [ md:text-2xl ] [ xl:mb-3 ] [ last:mb-0 ]">
+
+
+
+
+
+
+                
+    Visit our publications library
+  </h3>
+  
+      <div class="c-wysiwyg mb-3 leading-normal [ xl:mb-5 ] [ last:mb-0 ]">
+      
+
+
+
+
+
+
+                
+    <p>Click below to access our master publications library, with publications going back&nbsp;to 1998.</p>
+
+  
+    </div>
+  
+      
+
+
+  
+  
+
+<a  class="group c-button c-button--cta mt-1 [ xl:mt-0 ]"  href="https://www.ofgem.gov.uk/master-publications-library" >
+  <span>Visit the publication library</span>
+
+  <svg class="c-button__chevron fill-color-grey-semi stroke-color-white group-hover:fill-color-grey-dark group-focus:fill-color-grey-dark group-hover:stroke-color-white group-focus:stroke-color-white" focusable="false" aria-hidden="true">
+    <use xlink:href="#sprite-icon-chevron-round"></use>
+  </svg>
+</a>
+  </div>
+
+  </div>
+  <div class="c-grid__item">
+    
+<div class="w-full border-t border-color-theme pt-6 [ xl:pt-8 ] ">
+  
+      <h3 class="text-lg mb-2 [ md:text-2xl ] [ xl:mb-3 ] [ last:mb-0 ]">
+
+
+
+
+
+
+                
+    If your energy supplier goes bust
+  </h3>
+  
+      <div class="c-wysiwyg mb-3 leading-normal [ xl:mb-5 ] [ last:mb-0 ]">
+      
+
+
+
+
+
+
+                
+    <p>For information on what happens if your supplier goes out of business,&nbsp;click below to see our guide.</p>
+
+  
+    </div>
+  
+      
+
+
+  
+  
+
+<a  class="group c-button c-button--cta mt-1 [ xl:mt-0 ]"  href="https://www.ofgem.gov.uk/information-consumers/energy-advice-households/what-happens-if-your-energy-supplier-goes-bust" >
+  <span>Our guide</span>
+
+  <svg class="c-button__chevron fill-color-grey-semi stroke-color-white group-hover:fill-color-grey-dark group-focus:fill-color-grey-dark group-hover:stroke-color-white group-focus:stroke-color-white" focusable="false" aria-hidden="true">
+    <use xlink:href="#sprite-icon-chevron-round"></use>
+  </svg>
+</a>
+  </div>
+
+  </div>
+
+    </div>
+  </div>
+      </div>
+
+              </div>
+            </div>
+
+  
+  </div>
+
+    
+</div>
+
+  </div>
+
+  </div>
+
+    </div>
+    
+    
+    
+
+  </main>
+
+      <footer class="bg-color-grey-dark text-color-white pb-8 pt-8 [ lg:pb-32 lg:pt-16 ]">
+
+            
+    <div>
+    
+<div id="block-footercta" class="mb-8 [ lg:mb-16 ]">
+  
+      
+      
+
+
+
+
+
+
+                
+    
+
+<div class="container">
+  <a href="https://email.ofgem.gov.uk/p/1QCB-JWW/subscribe-to-our-news-and-communications" class="group block no-underline relative overflow-hidden px-5 py-6 bg-color-grey-dark text-color-white border border-color-theme animate-hover-underline animate-hover-underline--medium [ md:flex md:items-center md:px-10 md:py-12 ]">
+    <h3 class="text-4xl [ md:text-6xl ] [ lg:text-7xl ] [ print:text-3xl] md-max-w-2/3">
+      <span class="animate-underline-target">
+        <span>Subscribe to receive our latest news and communications</span>
+
+      </span>
+    </h3>
+
+
+    <div class="flex flex-1 items-center">
+      
+      <div class="relative ml-auto [ print:hidden ]" role="presentation">
+        <span class="flex items-center justify-center w-14 h-14 rounded-full border-color-grey-dark bg-color-theme focus-color-alt">
+          <svg class="w-5 h-5 fill-color-grey-dark transition duration-150 ease-in-out rotate-270 group-hover:transform-rotate-270-scale-125 group-focus:transform-rotate-270-scale-125" focusable="false" aria-hidden="true">
+            <use xlink:href="#sprite-icon-arrow"></use>
+          </svg>
+        </span>
+      </div>
+    </div>
+  </a>
+</div>
+
+  
+  </div>
+
+  </div>
+
+
+      <div class="container">
+        <div class="pt-px pl-px [ md:flex ]">
+          <div class="[ md:w-1/2 md:flex ]">
+            <div class="-mt-px -ml-px border border-color-grey-semi px-5 py-6 [ md:p-10 md:flex-1 ]">
+              
+    <div class="h-full md:flex md:flex-col [ lg:flex-row ]">
+    
+<div id="block-sociallinks" class="lg:flex-1">
+  
+          
+      
+
+  
+              <ul class="mb-11 flex items-center [ lg:justify-end lg:ml-5 ]">
+              <li class="ml-3 flex-none [ first:ml-0 ]">
+        <a class="block text-color-inherit transition duration-150 ease-in-out [ hover:scale-125 hover:text-color-orange ] [ focus:scale-125 focus:text-color-teal ] [ print:href-hidden ]" href="https://twitter.com/ofgem">
+                      <svg class="w-6 h-6 fill-current" focusable="false" aria-hidden="true">
+              <use xlink:href="#sprite-icon-twitter"></use>
+            </svg>
+          
+          <span class="sr-only">
+            Twitter
+          </span>
+        </a>
+              </li>
+          <li class="ml-3 flex-none [ first:ml-0 ]">
+        <a class="block text-color-inherit transition duration-150 ease-in-out [ hover:scale-125 hover:text-color-orange ] [ focus:scale-125 focus:text-color-teal ] [ print:href-hidden ]" href="https://www.linkedin.com/company/ofgem">
+                      <svg class="w-6 h-6 fill-current" focusable="false" aria-hidden="true">
+              <use xlink:href="#sprite-icon-linkedin"></use>
+            </svg>
+          
+          <span class="sr-only">
+            LinkedIn
+          </span>
+        </a>
+              </li>
+          <li class="ml-3 flex-none [ first:ml-0 ]">
+        <a class="block text-color-inherit transition duration-150 ease-in-out [ hover:scale-125 hover:text-color-orange ] [ focus:scale-125 focus:text-color-teal ] [ print:href-hidden ]" href="https://www.facebook.com/ofgem">
+                      <svg class="w-6 h-6 fill-current" focusable="false" aria-hidden="true">
+              <use xlink:href="#sprite-icon-facebook"></use>
+            </svg>
+          
+          <span class="sr-only">
+            Facebook
+          </span>
+        </a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+
+
+<div id="block-ofgemistheofficeofgasandelectricitymarkets" class="flex flex-col order-last [ lg:w-1/2 lg:order-first ]">
+  
+      <h2>Ofgem is the Office of Gas and Electricity Markets.</h2>
+    
+  
+
+  <div class="mt-auto text-sm [ lg:-mr-full lg:flex ]">
+    <div class="text-color-grey-mid flex-1">
+      
+
+<div>
+  
+  <div class="c-wysiwyg">
+          <p>We are a non-ministerial government department and an independent National Regulatory Authority. Our role is to protect consumers now and in the future by working to deliver a greener, fairer energy system.&nbsp;</p>
+
+      </div>
+</div>
+
+    </div>
+
+    <div class="flex-1 mt-11 [ lg:flex lg:items-end lg:justify-end ]">
+      
+  <a class="c-button c-button--text text-sm text-color-inherit animate-hover-underline relative" href="/about-us">
+    <span class="animate-underline-target">
+      Learn more about us
+    </span>
+
+    <svg class="c-button__chevron fill-color-grey-semi stroke-color-white " focusable="false" aria-hidden="true">
+      <use xlink:href="#sprite-icon-chevron-round"></use>
+    </svg>
+  </a>
+
+    </div>
+  </div>
+
+
+  </div>
+
+  </div>
+
+            </div>
+          </div>
+
+          <div class="[ md:w-1/2 md:flex md:flex-col ]">
+                          <div class="-mt-px -ml-px border border-color-grey-semi px-5 py-6 [ md:p-10 md:flex-1 ]">
+                
+    <div>
+    
+
+
+<nav aria-labelledby="block-contactus-menu" id="block-contactus" class="menu menu--block-contactus">
+    
+  <div class="-ml-5 [ lg:flex ]">
+    
+    <h2 id="block-contactus-menu" class="flex-1 pl-5 mb-11">Contact us</h2>
+    
+
+              <div class="flex-1 pl-5">
+        
+              <ul class="mb-0">
+              
+      
+      <li class="menu-item text-sm mb-1 [ last:mb-0 ]">
+
+        <a  class="mb-0 animate-hover-underline animate-hover-underline text-color-inherit" href="/contact-us">
+          <span class="animate-underline-target">Contact us</span>
+        </a>
+
+                      </li>
+        </ul>
+  
+
+
+      </div>
+      </div>
+</nav>
+  </div>
+
+              </div>
+                                      <div class="-mt-px -ml-px border border-color-grey-semi px-5 py-6 [ md:p-10 md:flex-1 ]">
+                
+    <div>
+    
+
+
+<nav aria-labelledby="block-footerother-menu" id="block-footerother" class="menu menu--block-footerother">
+    
+  <div class="-ml-5 [ lg:flex ]">
+    
+    <h2 id="block-footerother-menu" class="flex-1 pl-5 mb-11">Other</h2>
+    
+
+              <div class="flex-1 pl-5">
+        
+              <ul class="mb-0">
+              
+      
+      <li class="menu-item text-sm mb-1 [ last:mb-0 ]">
+
+        <a  class="mb-0 animate-hover-underline animate-hover-underline text-color-inherit" href="/cookies">
+          <span class="animate-underline-target">Cookies</span>
+        </a>
+
+                      </li>
+          
+      
+      <li class="menu-item text-sm mb-1 [ last:mb-0 ]">
+
+        <a  class="mb-0 animate-hover-underline animate-hover-underline text-color-inherit" href="/energy-terms-explained">
+          <span class="animate-underline-target">Energy terms explained</span>
+        </a>
+
+                      </li>
+          
+      
+      <li class="menu-item text-sm mb-1 [ last:mb-0 ]">
+
+        <a  class="mb-0 animate-hover-underline animate-hover-underline text-color-inherit" href="/log-your-scheme-register">
+          <span class="animate-underline-target">Log in to your scheme register</span>
+        </a>
+
+                      </li>
+          
+      
+      <li class="menu-item text-sm mb-1 [ last:mb-0 ]">
+
+        <a  class="mb-0 animate-hover-underline animate-hover-underline text-color-inherit" href="/master-publications-library">
+          <span class="animate-underline-target">Master publications library</span>
+        </a>
+
+                      </li>
+          
+      
+      <li class="menu-item text-sm mb-1 [ last:mb-0 ]">
+
+        <a  class="mb-0 animate-hover-underline animate-hover-underline text-color-inherit" href="/ofgem-privacy-policy">
+          <span class="animate-underline-target">Ofgem privacy policy</span>
+        </a>
+
+                      </li>
+          
+      
+      <li class="menu-item text-sm mb-1 [ last:mb-0 ]">
+
+        <a  class="mb-0 animate-hover-underline animate-hover-underline text-color-inherit" href="https://epr.ofgem.gov.uk/Document">
+          <span class="animate-underline-target">Search licences: Electronic Public Register</span>
+        </a>
+
+                      </li>
+          
+      
+      <li class="menu-item text-sm mb-1 [ last:mb-0 ]">
+
+        <a  class="mb-0 animate-hover-underline animate-hover-underline text-color-inherit" href="https://email.ofgem.gov.uk/p/1QCB-JWW/subscribe-to-our-news-and-communications">
+          <span class="animate-underline-target">Subscribe to our news services</span>
+        </a>
+
+                      </li>
+          
+      
+      <li class="menu-item text-sm mb-1 [ last:mb-0 ]">
+
+        <a  class="mb-0 animate-hover-underline animate-hover-underline text-color-inherit" href="/website-accessibility">
+          <span class="animate-underline-target">Website accessibility</span>
+        </a>
+
+                      </li>
+        </ul>
+  
+
+
+      </div>
+      </div>
+</nav>
+  </div>
+
+              </div>
+                      </div>
+        </div>
+      </div>
+    </footer>
+  
+</div>
+  </div>
+
+      <script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":"GB","siteName":"Ofgem","entityCreated":"1743598559","entityLangcode":"en","entityStatus":"1","entityUid":"520","entityUuid":"73b1a8de-5317-4072-b036-ccec8356860b","entityVid":"292454","entityName":"RodgersG","entityType":"node","entityBundle":"page","entityId":"178753","entityTitle":"Sorry, we can\u0027t seem to find that content for you","userUid":0});</script>
+
+
+    </div>
+
+    <div class="micromodal-slide" id="modal" aria-hidden="true" data-js-modal>
+  <div class="modal-overlay | flex items-center justify-center fixed inset-0 bg-color-grey-dark-overlay z-50" tabindex="-1" data-js-modal-close>
+    <div class="modal__container | w-full [ md:container ]" role="dialog" aria-modal="true" data-js-modal-container>
+      <div class="relative z-10">
+        <button type="button" class="group flex items-center justify-center absolute bottom-full w-12 h-12 mb-4 right-4 bg-color-white rounded-full [ md:left-full md:right-auto ]" data-js-modal-close>
+          <span class="sr-only">
+            Close
+          </span>
+          <svg class="w-3 h-3 stroke-current transition duration-200 [ group-hover:scale-125 group-focus:scale-125 ]" focusable="false" aria-hidden="true" data-js-modal-close>
+            <use data-js-modal-close xlink:href="#sprite-icon-cross"></use>
+          </svg>
+        </button>
+      </div>
+      <div class="max-h-modal overflow-hidden flex">
+        <div class="modal__content c-wysiwyg [ w-full overflow-auto max-h-168 ]" data-js-modal-content>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>    <div class="fixed top-0 left-0 w-full h-full z-40 flex items-center justify-center transition duration-200 invisible opacity-0" data-js-loading-overlay>
+  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" display="block"><circle cx="50" cy="50" r="30" stroke="#e76d1c" stroke-width="30" fill="none"/><circle cx="50" cy="50" r="30" stroke="#fbb515" stroke-width="30" stroke-linecap="round" fill="none"><animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" dur="1.1764705882352942s" values="0 50 50;180 50 50;720 50 50" keyTimes="0;0.5;1"/><animate attributeName="stroke-dasharray" repeatCount="indefinite" dur="1.1764705882352942s" values="37.69911184307752 150.79644737231007;0 188.49555921538757;37.69911184307752 150.79644737231007" keyTimes="0;0.5;1"/></circle></svg>
+</div>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":-10},"cy":{"id":"cy","name":"Welsh","direction":"ltr","weight":-9}}},"suggestedTerms":[],"user":{"uid":0,"permissionsHash":"cd0e1fcf61505fc85007294ed508e09595032325df568f73b01c97ade4f7fb03"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.3.14"></script>
+<script src="/core/misc/drupal.js?v=10.3.14"></script>
+<script src="/core/misc/drupal.init.js?v=10.3.14"></script>
+<script src="/modules/contrib/datalayer/js/datalayer.js?v=1.x"></script>
+<script src="/themes/custom/numiko/dist/js/main-bundle.js?svtyh1"></script>
+<script src="/themes/custom/numiko/dist/js/drupal-translations-bundle.js?svtyh1"></script>
+
+  </body>
+</html>
